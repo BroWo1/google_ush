@@ -1,0 +1,18 @@
+/**
+ * src/styles/settings.scss
+ *
+ * Configures SASS variables and Vuetify overwrites
+ */
+
+// Custom font import
+@font-face {
+  font-family: 'Google';
+  src: url('@/assets/google.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// https://vuetifyjs.com/features/sass-variables/`
+// @use 'vuetify/settings' with (
+//   $color-pack: false
+// );
