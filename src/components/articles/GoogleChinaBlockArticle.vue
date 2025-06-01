@@ -3,7 +3,7 @@
     <!-- NYT Publisher Header -->
     <div class="nyt-publisher-header">
       <div class="nyt-logo">
-        <span class="nyt-logo-text">The New York Times</span>
+        <span class="nyt-logo-text">The New Beijing Times</span>
       </div>
       <div class="publisher-actions">
         <v-btn variant="outlined" size="small" class="action-btn">

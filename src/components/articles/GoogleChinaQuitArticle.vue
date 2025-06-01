@@ -3,7 +3,7 @@
     <!-- Bloomberg Publisher Header -->
     <div class="bloomberg-publisher-header">
       <div class="bloomberg-logo">
-        <span class="bloomberg-logo-text">Bloomberg</span>
+        <span class="bloomberg-logo-text">Mambaberg</span>
         <span class="bloomberg-logo-subtitle">Business • Markets • Technology</span>
       </div>
       <div class="publisher-actions">
@@ -36,8 +36,8 @@
     <div class="key-points mb-4">
       <h3>Cultural Impact</h3>
       <ul>
-        <li>Google's abrupt exit creates "information anxiety" among educated users</li>
-        <li>VPN adoption surges as users seek alternative access methods</li>
+        <li>Google's exit creates anxiety regarding the access of information among educated users</li>
+        <li>VPN adoption surges as users seek alternative access methods to their accustomed Google services</li>
         <li>Digital divide widens between internationally-minded and domestic users</li>
         <li>Withdrawal triggers conversations about information control and political freedom</li>
       </ul>
@@ -45,13 +45,13 @@
 
     <!-- Lead paragraph -->
     <p class="text-body-1 mb-4 lead-paragraph">
-      When Google ceased operations in mainland China on Tuesday, millions of Chinese users didn't just lose access to a search engine—they experienced what many describe as a sudden amputation from global digital culture, creating an unexpected political awakening among a generation that had grown accustomed to unrestricted information access.
+      When Google exit operations in mainland China, millions of Chinese users didn't just lose access to a search engine—they experienced a sudden disconnection from the global digital culture, creating an unexpected political awakening among a generation of Chinese internet users. 
     </p>
 
 
     <h2 class="section-header">The Moment of Departure</h2>
     <p class="text-body-1 mb-4">
-      "I was quite shocked and surprised," recalls Ms. Li, a Beijing-based teacher who was among millions of Chinese users affected by Google's sudden withdrawal. "I wondered why they left and what happened in the middle. I was definitely curious." Her reaction captured the feelings across China's digital community as users were shocked by the loss of their preferred search engine.
+      "I was quite shocked and surprised," recalls Ms. Li, a University student who was among millions of Chinese users affected by Google's sudden withdrawal. "I wondered why they left and what happened in the middle. I was definitely curious." Her reaction captured the feelings across China's digital community as users were shocked by the loss of their preferred search engine.
 
     </p>
 

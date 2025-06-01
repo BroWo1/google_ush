@@ -29,58 +29,58 @@
 
     <div class="overview-content">
       <div class="main-summary">
-        <h3 class="summary-title">Google's Cultural Impact in China: An Ethnographic Analysis</h3>
+        <h3 class="summary-title">Google's Cultural Impact in China</h3>
         
         <div class="summary-section">
           <h4>What is the product/brand/cultural topic?</h4>
           <p>
-            <strong>Google</strong> is an American multinational technology corporation that operated in China from 2006-2010, offering search services, Gmail, and integrated digital tools <span class="citation" @click="openArticle('/articles/google')">(1)</span>. Beyond being just a search engine, Google represented a <strong>cultural bridge</strong> between American and Chinese digital values, introducing concepts of information accessibility, integrated digital identity, and alternative approaches to online search <span class="citation" @click="openArticle('/articles/google-china-enter')">(2)</span>.
+            <strong>Google</strong> is an American technology corporation that operated in China from 2006-2010, offering a comprehensive <strong>digital ecosystem</strong> including search, Gmail, Maps, Docs, and Android services <span class="citation" @click="openArticle('/articles/google')">(1)</span>. Google's integrated platform represented a <strong>unified approach to digital services</strong> that contrasted with China's fragmented internet landscape, introducing cloud-based productivity and seamless account integration <span class="citation" @click="openArticle('/articles/google-china-enter')">(2)</span>.
           </p>
         </div>
 
         <div class="summary-section">
           <h4>Why does it matter?</h4>
           <p>
-            Google's brief presence fundamentally <strong>transformed Chinese users' relationship with information</strong> and digital expectations <span class="citation" @click="openArticle('/articles/google-china-influence')">(3)</span>. It introduced millions to concepts of unrestricted information access, integrated cloud services, and unified digital identity. The company's exit created lasting "information anxiety" and sparked conversations about digital rights and freedom of information among educated Chinese users <span class="citation" @click="openArticle('/articles/google-china-quit')">(4)</span>.
+            Google's ecosystem approach <strong>introduced integrated digital workflows</strong> to Chinese users, demonstrating how cloud services, email, documents, and search could work seamlessly together <span class="citation" @click="openArticle('/articles/google-china-influence')">(3)</span>. This influenced Chinese expectations for interconnected digital experiences and collaborative tools. The company's exit created lasting "ecosystem anxiety" among professionals who had become dependent on Google's unified platform for international collaboration <span class="citation" @click="openArticle('/articles/google-china-quit')">(4)</span>.
           </p>
         </div>
 
         <div class="summary-section">
           <h4>How did it come here?</h4>
           <p>
-            Google's entry into China was a <strong>grassroots phenomenon</strong> that began in university computer labs years before official launch <span class="citation" @click="openArticle('/articles/google-china-enter')">(2)</span>. Chinese students and researchers discovered Google through international networks, gradually integrating it into daily routines. The official launch of Google.cn in 2006 represented the culmination of years of organic adoption and user pressure for localized services.
+            Google's entry into China was a <strong>grassroots phenomenon</strong> that began in university computer labs years before the official 2006 launch <span class="citation" @click="openArticle('/articles/google-china-enter')">(2)</span>. Chinese students and researchers discovered Google through international networks, gradually integrating it into daily routines and creating user demand for localized services.
           </p>
         </div>
 
         <div class="summary-section">
           <h4>How has it changed since coming to China?</h4>
           <p>
-            Google's China experience was <strong>transformative for the company itself</strong>, evolving from a purely profit-focused entity to a values-driven corporation <span class="citation" @click="openArticle('/articles/google-china-block')">(5)</span>. The regulatory challenges and ultimate withdrawal in 2010 established precedents for how tech companies approach authoritarian markets and helped define Google's "Don't be evil" philosophy in practice <span class="citation" @click="openArticle('/articles/google-china-quit')">(4)</span>.
+            Google's China experience revealed <strong>deep philosophical divisions</strong> about the company's transformation and motivations <span class="citation" @click="openArticle('/articles/google-china-block')">(5)</span>. Western narratives portray this as Google's moral awakening to values-driven leadership, while Chinese academics argue it represents calculated business decisions rather than principled stands <span class="citation" @click="openArticle('/articles/google-china-quit')">(4)</span>. Interpretations of whether this represents corporate responsibility or commercial calculation remain <strong>fundamentally contested</strong> across cultural lines.
           </p>
         </div>
 
         <div class="summary-section">
           <h4>How has Chinese culture changed with it?</h4>
           <p>
-            Google's presence created lasting changes in Chinese digital behavior: users developed expectations for <strong>information freedom and quality search results</strong>, adopted VPN usage for accessing global information, and internalized concepts of integrated digital services <span class="citation" @click="openArticle('/articles/google-china-retrospective')">(6)</span>. Even 15 years after Google's exit, Chinese users continue to seek these qualities in domestic platforms, and many still use VPNs to access Google services for academic and professional purposes <span class="citation" @click="openArticle('/articles/google-tieba')">(7)</span>.
+            Google's cultural impact reveals <strong>stark divisions within Chinese society</strong> based on educational background and international exposure <span class="citation" @click="openArticle('/articles/google-china-retrospective')">(6)</span>. Educated professionals developed lasting expectations for information freedom and integrated services, with many continuing VPN usage for research. However, Chinese academics argue that <strong>most users remained unaffected</strong>, preferring domestic platforms like Baidu <span class="citation" @click="openArticle('/articles/google-china-block')">(5)</span>. This division reflects debates about whether Google's impact was transformational or limited to a small, internationally-oriented segment <span class="citation" @click="openArticle('/articles/google-tieba')">(7)</span>.
           </p>
         </div>
 
         <div class="key-findings">
           <h4>Key Research Findings</h4>
           <ul>
-            <li><strong>Cultural Bridge:</strong> Google served as more than technology—it was a conduit for American digital values and democratic ideals about information access</li>
-            <li><strong>Lasting Digital Habits:</strong> Gmail integration and cloud-based services fundamentally changed how Chinese users approach digital identity</li>
-            <li><strong>Political Awakening:</strong> Google's exit sparked conversations about censorship and digital rights among educated users</li>
-            <li><strong>Generational Impact:</strong> Users who experienced Google maintain different expectations for information quality and accessibility</li>
-            <li><strong>Ongoing Influence:</strong> VPN adoption and continued Google usage demonstrate the lasting void left by the company's departure</li>
+            <li><strong>Ecosystem Innovation:</strong> Google introduced integrated digital workflows combining search, email, documents, and cloud services that influenced Chinese expectations for seamless platform integration</li>
+            <li><strong>Contested Interpretations:</strong> Google's exit sparks fundamentally different narratives—Western media emphasizes moral awakening while Chinese academics view it as calculated business decisions</li>
+            <li><strong>Divided Impact:</strong> Google's influence was primarily concentrated among educated, internationally-oriented Chinese users, while the majority remained loyal to domestic platforms like Baidu</li>
+            <li><strong>Professional vs. Ideological:</strong> VPN adoption and continued Google usage reflect practical needs for international collaboration rather than ideological awakening to democratic values</li>
+            <li><strong>Cultural Stratification:</strong> Google's legacy reveals sharp divisions within Chinese society based on educational background, professional requirements, and international exposure</li>
           </ul>
         </div>
       </div>
 
       <div class="ai-disclaimer">
         <v-icon size="14" class="me-1" color="#70757a">mdi-information-outline</v-icon>
-        <span>AI can make mistakes, so double-check it (actually generated by AI)</span>
+        <span>AI can make mistakes, so double-check it</span>
       </div>
 
       <div class="citations-section">
@@ -98,7 +98,7 @@
           <div class="citation-item" @click="openArticle('/articles/google-china-enter')">
             <div class="citation-number">2</div>
             <div class="citation-content">
-              <div class="citation-title">CNN: The Long Road to China</div>
+              <div class="citation-title">CNM: The Long Road to China</div>
               <div class="citation-description">Investigation into grassroots adoption and revolutionary impact on information discovery</div>
               <div class="citation-date">2006-01-27</div>
             </div>
@@ -116,7 +116,7 @@
           <div class="citation-item" @click="openArticle('/articles/google-china-quit')">
             <div class="citation-number">4</div>
             <div class="citation-content">
-              <div class="citation-title">Bloomberg: Google's Exit Creates Cultural Limbo</div>
+              <div class="citation-title">Mambaberg: Google's Exit Creates Cultural Limbo</div>
               <div class="citation-description">Analysis of immediate cultural impact and information anxiety following withdrawal</div>
               <div class="citation-date">2010-03-23</div>
             </div>
@@ -125,7 +125,7 @@
           <div class="citation-item" @click="openArticle('/articles/google-china-block')">
             <div class="citation-number">5</div>
             <div class="citation-content">
-              <div class="citation-title">NYT: A Chinese Perspective</div>
+              <div class="citation-title">NBT: A Chinese Perspective</div>
               <div class="citation-description">Alternative viewpoint on commercial vs. ideological motivations for exit</div>
               <div class="citation-date">2025-05-30</div>
             </div>
@@ -134,7 +134,7 @@
           <div class="citation-item" @click="openArticle('/articles/google-china-retrospective')">
             <div class="citation-number">6</div>
             <div class="citation-content">
-              <div class="citation-title">WSJ: Services Ecosystem Impact</div>
+              <div class="citation-title">CSJ: Services Ecosystem Impact</div>
               <div class="citation-description">Analysis of how Gmail and integrated services rewired Chinese digital expectations</div>
               <div class="citation-date">2025-05-31</div>
             </div>

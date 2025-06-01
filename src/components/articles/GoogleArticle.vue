@@ -111,12 +111,16 @@
 
       <h3 id="core-search">Search and Advertising</h3>
       <p>
-        Google Search, introduced in 1998, was the first modern Search Engine. Advertisement services based on search later became Google’s main revenue source.
+        Google Search, introduced in 1998, was the first modern Search Engine. Advertisement services based on search results regarding it later became Google’s main revenue source.
       </p>
 
       <h3 id="communication-productivity">Communication and Productivity</h3>
       <p>
-        Gmail started beta testing in 2004 and became the largest email service shortly after its introduction.
+        Google's online email service Gmail started beta testing in 2004. It has since become the largest email service globally because of its integration with other Google services. 
+      </p>
+      <h3 id="maps-earth">Maps and Earth</h3>
+      <p>
+        Google Maps and Earth, launched in 2005, became dominant map services. They are widely used for navigation by users around the world.
       </p>
 
       <h2 id="references">References</h2>
@@ -125,7 +129,7 @@
           <li>Afp. "Chronology of Google's Operations in China." <em>The Independent</em>, 23 Mar. 2010.</li>
           <li>Boston University. "Google V. China." <em>BU Today</em>, 19 June 2019.</li>
           <li><em>Britannica Money</em>. "Google Inc." 13 May 2025.</li>
-          <li>"Google’s Incredible Growth: A Timeline." <em>CNN Interactive</em>.</li>
+          <li>"Google’s Incredible Growth: A Timeline." <em>CNM Interactive</em>.</li>
           <li>"How Google Took on China—and Lost." <em>MIT Technology Review</em>, 22 Aug. 2024.</li>
           <li>SmartAsset. "History of Google: Company and Stock." <em>Nasdaq</em>.</li>
         </ul>

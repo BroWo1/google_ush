@@ -27,7 +27,7 @@ export const useSearchStore = defineStore('search', {
         id: 1,
         title: 'A Chinese Perspective: Google\'s Exit Was Business Logic, Not Moral Victory',
         url: '/articles/google-china-block',
-        description: 'New York Times guest essay by Beijing-based technology researcher Dr. He ShengHui offering an alternative Chinese perspective on Google\'s withdrawal. Argues that the exit was driven by regulatory compliance and commercial calculations rather than moral principles, challenging Western narratives about cultural transformation and value conflicts.',
+        description: 'Beijing-based researcher Dr. He ShengHui argues Google\'s China exit was due to business and regulatory reasons, not moral principles. Challenges Western views.',
         publishedDate: '2025-05-30',
         image: image1,
         category: 'Opinion'
@@ -36,7 +36,7 @@ export const useSearchStore = defineStore('search', {
         id: 2,
         title: 'Does anyone else miss Google? It\'s been 15 years since they left...',
         url: '/articles/google-tieba',
-        description: 'Authentic Tieba forum discussion thread where Chinese users share personal memories and reflections on Google\'s impact 15 years after its departure. Features candid conversations about academic research needs, VPN usage, and the practical rather than ideological reasons for missing Google\'s services, offering genuine user perspectives on the lasting void left by Google\'s exit.',
+        description: 'Tieba forum users discuss missing Google 15 years after its China exit. Topics include academic research, VPNs, and practical reasons for wanting Google services back.',
         publishedDate: '2025-05-31',
         image: image2,
         category: 'Social'
@@ -54,7 +54,7 @@ export const useSearchStore = defineStore('search', {
         id: 3,
         title: 'The Long Road to China: How Google Navigated Years of Pressure to Enter the World\'s Largest Market',
         url: '/articles/google-china-enter',
-        description: 'CNN Business investigation into Google\'s complex journey to launching Google.cn in 2006. Examines how Google\'s arrival wasn\'t just corporate expansion but a revolution in how millions of Chinese internet users discovered and thought about information, fundamentally changing the relationship between technology and daily life through grassroots adoption.',
+        description: 'Google.cn launched in 2006 after years of effort. Its arrival changed how millions in China accessed information, impacting daily life and tech adoption.',
         publishedDate: '2006-01-27',
         image: image3,
         category: 'Business'
@@ -63,7 +63,7 @@ export const useSearchStore = defineStore('search', {
         id: 4,
         title: 'How did Google\'s brief presence in China (2006-2010) fundamentally change Chinese people\'s relationship with information and values? What lasting cultural impact did it have?',
         url: '/articles/google-china-influence',
-        description: 'Zhihu discussion analyzing the profound cultural impact of Google\'s presence in China from 2006-2010. Chinese users share personal experiences of how Google exposed them to different perspectives, American ideals, and influenced their approach to information seeking, creating lasting changes in digital behavior and expectations for information freedom.',
+        description: 'Zhihu users discuss Google\'s 2006-2010 impact in China: exposure to new perspectives, changed information-seeking habits, and lasting digital behavior shifts.',
         publishedDate: '2025-05-31',
         image: image4,
         category: 'Culture'
@@ -72,7 +72,7 @@ export const useSearchStore = defineStore('search', {
         id: 5,
         title: 'How Google\'s Services Ecosystem Rewired Chinese Digital Expectations',
         url: '/articles/google-china-retrospective',
-        description: 'Wall Street Journal retrospective analyzing how Google\'s integrated services ecosystem—Gmail, Google Account, Chrome—quietly revolutionized Chinese users\' digital habits. Explores how the concept of unified digital identity and cloud-based integration introduced by Google continues to influence how Chinese users evaluate and adopt new technologies today.',
+        description: 'Google\'s ecosystem (Gmail, Chrome, Accounts) changed Chinese digital habits. Unified identity and cloud integration influenced tech adoption.',
         publishedDate: '2025-05-31',
         image: image5,
         category: 'Analysis'
@@ -81,7 +81,7 @@ export const useSearchStore = defineStore('search', {
         id: 6,
         title: 'Google\'s China Exit Leaves Digital Generation in Cultural Limbo',
         url: '/articles/google-china-quit',
-        description: 'Bloomberg analysis examining the immediate cultural impact of Google\'s abrupt withdrawal from China in March 2010. Explores how the exit created "information anxiety" among educated users, triggered conversations about information control and political freedom, and led to a surge in VPN adoption as users sought alternative access methods.',
+        description: 'Google\'s March 2010 China withdrawal caused "information anxiety," discussions on information control, and increased VPN use for alternative access.',
         publishedDate: '2010-03-23',
         image: image6,
         category: 'Business'
@@ -90,7 +90,7 @@ export const useSearchStore = defineStore('search', {
         id: 7,
         title: 'Google',
         url: '/articles/google',
-        description: 'Comprehensive overview of Google LLC, the American multinational technology corporation founded in 1998 by two Stanford PhDs. Explores the company\'s dominance in online search with 70% market share, its evolution from a simple search engine to an integrated technology ecosystem, and its transformation into a subsidiary of Alphabet Inc.',
+        description: 'Google LLC: founded 1998 by Stanford PhDs. Dominates online search (70% market share). Evolved from search engine to tech ecosystem, now Alphabet subsidiary.',
         publishedDate: '1998-09-04',
         image: image7,
         category: 'Google'

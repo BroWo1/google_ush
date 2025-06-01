@@ -89,7 +89,7 @@
     <div class="post-container reply-post">
       <div class="user-info">
         <div class="avatar">🧑‍🎨</div> <div class="user-details">
-          <div class="username">Eric_J_THIS</div> <div class="user-level">Level 7</div> <div class="join-date">Joined: 2019</div> </div>
+          <div class="username">Eric_THIS</div> <div class="user-level">Level 7</div> <div class="join-date">Joined: 2019</div> </div>
       </div>
       <div class="post-content">
         <div class="post-number">#29</div> <div class="post-text">

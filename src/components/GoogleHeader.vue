@@ -10,7 +10,7 @@
     <v-container class="d-flex align-center justify-space-between">
       <!-- Google Logo (smaller) -->
       <div class="d-flex align-center">
-        <h2 class="google-text-small me-8" @click="goHome">Google</h2>
+        <img src="@/assets/google.png" alt="Google Logo" class="google-logo-small me-8" @click="goHome" />
         
         <!-- Search Bar (compact) -->
         <div class="search-container-compact" style="width: 500px;">
@@ -59,6 +59,7 @@
 
 <script setup>
 import { ref, watch } from 'vue'
+import googleLogo from '@/assets/google.png' // Import the logo
 
 const props = defineProps({
   searchQuery: {
@@ -108,17 +109,13 @@ watch(() => props.searchQuery, (newValue) => {
   backdrop-filter: blur(8px);
 }
 
-.google-text-small {
-  font-size: 24px;
-  font-weight: 400;
-  color: #4285f4;
+.google-logo-small {
+  height: 30px; /* Adjust as needed */
   cursor: pointer;
-  margin: 0;
-  letter-spacing: -1px;
   transition: all 0.2s ease;
 }
 
-.google-text-small:hover {
+.google-logo-small:hover {
   opacity: 0.8;
   transform: scale(1.05);
 }

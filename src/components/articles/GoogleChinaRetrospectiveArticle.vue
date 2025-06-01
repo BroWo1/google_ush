@@ -3,8 +3,8 @@
     <!-- WSJ Publisher Header -->
     <div class="wsj-publisher-header">
       <div class="wsj-logo">
-        <span class="wsj-logo-text">The Wall Street Journal</span>
-        <span class="wsj-logo-subtitle">America's Business Daily</span>
+        <span class="wsj-logo-text">The ChangAn Street Journal</span>
+        <span class="wsj-logo-subtitle">China's Business Daily</span>
       </div>
       <div class="publisher-actions">
         <v-btn variant="outlined" size="small" class="action-btn">

@@ -60,7 +60,7 @@
       <!-- Article 1: Entry -->
       <div class="article-card">
         <div class="article-header">
-          <div class="publication-badge cnn">CNN BUSINESS</div>
+          <div class="publication-badge cnn">CNM BUSINESS</div>
           <h4 class="article-title">
             <a href="/articles/google-china-enter" class="article-link">
               The Cultural Bridge Builders: How Google's Three-Year Journey to China Revealed Deep Cross-Cultural Tensions
@@ -135,7 +135,7 @@
       <!-- Article 4: Exit -->
       <div class="article-card">
         <div class="article-header">
-          <div class="publication-badge bloomberg">BLOOMBERG</div>
+          <div class="publication-badge bloomberg">MAMBABERG</div>
           <h4 class="article-title">
             <a href="/articles/google-china-quit" class="article-link">
               The $6 Billion Moral Stand: How Google's China Exit Redefined Big Tech's Relationship with Authoritarian Markets
@@ -160,7 +160,7 @@
       <!-- Article 5: Chinese Perspective -->
       <div class="article-card">
         <div class="article-header">
-          <div class="publication-badge nyt">NEW YORK TIMES</div>
+          <div class="publication-badge nyt">NEW BEIJING TIMES</div>
           <h4 class="article-title">
             <a href="/articles/google-china-block" class="article-link">
               A Chinese Perspective: Why Google's Exit Was Business Logic, Not Moral Victory
@@ -185,7 +185,7 @@
       <!-- Article 6: Retrospective -->
       <div class="article-card">
         <div class="article-header">
-          <div class="publication-badge wsj">WALL STREET JOURNAL</div>
+          <div class="publication-badge wsj">CHANGAN STREET JOURNAL</div>
           <h4 class="article-title">
             <a href="/articles/google-china-retrospective" class="article-link">
               The Mutual Transformation: How Four Years in China Changed Google Forever and Left Lasting Marks on Chinese Digital Culture

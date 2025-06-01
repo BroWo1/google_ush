@@ -3,7 +3,7 @@
     <!-- CNN Publisher Header -->
     <div class="cnn-publisher-header">
       <div class="cnn-logo">
-        <span class="cnn-logo-text">CNN</span>
+        <span class="cnn-logo-text">CNM</span>
         <span class="cnn-logo-subtitle">Business</span>
       </div>
       <div class="publisher-actions">

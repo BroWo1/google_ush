@@ -1,12 +1,9 @@
 <template>
   <div class="article-body">
-    <!-- Zhihu Publisher Header -->
-
     <div class="zhihu-header">
       <div class="zhihu-logo">
         <span class="logo-text">知乎</span>
         <span class="logo-english">Zhihu</span>
-        
       </div>
       <div class="zhihu-nav">
         <span class="nav-item active">首页</span>
@@ -33,12 +30,13 @@
     <div class="zhihu-answer">
       <div class="answer-header">
         <div class="user-info">
-          <div class="avatar">Z</div>
+          <div class="avatar">L</div>
           <div class="user-details">
-            <div class="username">Zhou Huai</div>
-            <div class="user-bio">Tech Professional in Beijing, Experienced Google in its early China days.</div>
+            <div class="username">Li Peng</div>
+            <div class="user-bio">Semiconductor Professional in Hefei, PhD from the US.</div>
             <div class="credentials">
-              <span class="credential">新加坡大学毕业生</span>
+              <span class="credential">美国博士</span>
+              <span class="credential">半导体行业从业者</span>
             </div>
           </div>
         </div>
@@ -50,14 +48,16 @@
 
       <div class="answer-content">
         <p class="answer-text">
-          I remember using Google many years ago, back when it was directly accessible and I worked in a foreign company. For my generation, those born in the 1970s, Google definitely had an influence. It felt like it aligned more with the original ideals of the internet – things like knowledge access and more accurate search results, especially when you compared it to Baidu, which was often full of ads. It exposed us to different perspectives and values, even American ideals.
-        </p>
-
-        <p class="answer-text">
-          This matters because it shaped how a segment of the population, particularly those in academia, approached information. We got used to a certain quality and breadth of information. When Google left, it was a loss. I think their decision to exit was unwise, though probably a forced one. From my personal view, completely blocking it was excessive. Selective filtering might be understandable in some contexts, but rejecting it entirely was a loss for China because it's still the most powerful search engine globally.
+          When considering Google's impact, it's true that its presence changed how some of us accessed information. I personally used Google Search, Scholar for academic work, Voice, Maps, and Gmail quite a bit, and I still rely on some of these via VPN because they're not directly available in China.
         </p>
         <p class="answer-text">
-          The cultural change, for those of us who experienced it, was this brief window into a different way of accessing and assessing information. It fostered a habit of seeking diverse viewpoints. Even though its direct influence is minimal now because it's largely inaccessible, that period left a mark on how some of us think about information. The impact on my personal life was significant when I was a student; I used it a lot for academic research, and it was very useful.
+          In terms of a fundamental change in Chinese people's relationship with information and values, I believe its influence now is quite limited. Google left China a long while ago, so many don't have a direct memory or experience with it. While its impact might have been more significant when it first arrived, this has waned as access became more difficult. For the majority who likely never used it, there probably wasn't a profound shift in values from Google.
+        </p>
+        <p class="answer-text">
+          The lasting cultural impact is therefore nuanced. On one hand, for many, it's minimal. On the other, its departure, which I see as both a commercially understandable move given its inability to provide "fair and unbiased search results" in the local context, and a loss for the Chinese market and users who missed out on products like Gmail or Maps, matters. The government's blocking, while not ideal, was perhaps seen as necessary for control, particularly given Google's approach to search results. The political dimension seems to have outweighed commercial factors in its exit.
+        </p>
+        <p class="answer-text">
+          Despite this, I see Google as a great, innovative company that has benefited society. For me, and likely others who continue to use its services like Gmail, Voice, or YouTube, it maintains a significant personal influence. This itself is a form of lasting, albeit niche, cultural presence.
         </p>
 
         <div class="answer-stats">
@@ -72,12 +72,13 @@
     <div class="zhihu-answer">
       <div class="answer-header">
         <div class="user-info">
-          <div class="avatar">A</div>
+          <div class="avatar">Z</div>
           <div class="user-details">
-            <div class="username">Amy</div>
-            <div class="user-bio">International School Student, Familiar with VPN usage.</div>
+            <div class="username">Zhang Zheng</div>
+            <div class="user-bio">Semiconductor Professional in Beijing, PhD from the US.</div>
             <div class="credentials">
-              <span class="credential">11年级学生</span>
+              <span class="credential">美国博士</span>
+              <span class="credential">北京工作</span>
             </div>
           </div>
         </div>
@@ -89,16 +90,16 @@
 
       <div class="answer-content">
         <p class="answer-text">
-          I use Google Search, Gmail, Google Scholar, and Google Docs, usually through a VPN. I first heard about it from my family when I was in elementary school.
+          I did use Google products like Search, Chrome, and Gmail in the past. However, I don't currently use them via VPN as I find it too much trouble.
         </p>
         <p class="answer-text">
-          To what extent does it influence contemporary China? I'd say to a small extent, because only a small portion of the population can actually encounter the website now. However, why it matters is its potential impact on values. I think Google *would* have an effect on Chinese people's ideals, like freedom of speech, because many opinions that are forbidden to talk about in China are largely discussed on Google or YouTube. Encountering those opinions would definitely have an effect on people's values.
+          Thinking about how Google fundamentally changed our relationship with information, I'd say its early presence might have offered a new perspective on what browsers could do. Beyond that, I don't feel it brought about a massive change in how Chinese people, as a whole, relate to information or their values. My views on this likely reflect those of my generation.
         </p>
         <p class="answer-text">
-          The withdrawal and subsequent blocking by the firewall definitely meant reducing the range of information people could reach. This leads to limitations in people's views because they see fewer opinions than before. It makes the values of Chinese people more cohesive, with less diversity in their opinions, because the range of available information is reduced.
+          The lasting cultural impact is perhaps more about its absence than its brief presence for many. Google's withdrawal certainly limited domestic users' access to its services. From my perspective, the decision to block Google services via the firewall is unreasonable. It feels like a forced intervention in what should be user choice regarding commercial services. It seems to me that the government's stance played a more decisive role in Google's departure than the company's own commercial decisions.
         </p>
         <p class="answer-text">
-          Regarding why it left, I believe the government likely had more impact than Google as a single company. As a user, I find its search engine provides a lot of help because of its abundant and helpful resources. So, the cultural shift is perhaps more about what's missing – that broader access to diverse information and the critical thinking it can foster. For those who can access it, it offers a different information landscape.
+          Globally, I see Google as an influential tech company that consistently pursues innovation. However, for me personally, since I don't use its services much anymore, its direct cultural or practical impact on my daily life is now minimal. The primary lasting impact for many users was the disruption caused by its exit and the subsequent restrictions.
         </p>
 
         <div class="answer-stats">

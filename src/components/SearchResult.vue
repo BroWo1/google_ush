@@ -12,7 +12,7 @@
           </div>
           
           <v-card-title class="pa-0 mb-2">
-            <h3 class="text-h6 result-title cursor-pointer" v-html="highlightText(article.title)">
+            <h3 class="text-h6 result-title cursor-pointer" v-html="highlightText(truncateTitle(article.title))">
             </h3>
           </v-card-title>
           
@@ -88,6 +88,14 @@ const highlightText = (text) => {
   const regex = new RegExp(`(${query})`, 'gi')
   return text.replace(regex, '<mark>$1</mark>')
 }
+
+const truncateTitle = (title) => {
+  const maxLength = 45 // Maximum characters before truncation
+  if (title.length > maxLength) {
+    return title.substring(0, maxLength).trim() + '...'
+  }
+  return title
+}
 </script>
 
 <style scoped>
@@ -125,6 +133,8 @@ const highlightText = (text) => {
   line-height: 1.3;
   margin: 0;
   transition: all 0.2s ease;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 .result-title:hover {
